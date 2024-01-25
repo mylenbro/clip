@@ -1,0 +1,1 @@
+python -m PyInstaller --onefile --windowed ./src/main.py
